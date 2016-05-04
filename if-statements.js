@@ -5,5 +5,5 @@ if (number >= 2 & noun != "geese" & noun != "sheep") {
 	console.log(number + " " + noun + "s");
 }
 else {
-	console.log(noun)
+	console.log("1 " + noun);
 }
